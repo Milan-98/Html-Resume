@@ -17,7 +17,7 @@ face challenges like Links,tables. After some more study on Language make it eas
 
 ## Project Link
 
-[Project Link](https://first-html-site.netlify.app)
+[Html Resume](https://first-html-site.netlify.app)
 
 
 ## Feedback
